@@ -566,6 +566,7 @@ define("moxie/core/utils/Mime", [
 		"application/vnd.ms-excel,xls xlb," +
 		"application/vnd.ms-powerpoint,ppt pps pot," +
 		"application/zip,zip," +
+    "application/x-rar-compressed,rar," +
 		"application/x-shockwave-flash,swf swfl," +
 		"application/vnd.openxmlformats-officedocument.wordprocessingml.document,docx," +
 		"application/vnd.openxmlformats-officedocument.wordprocessingml.template,dotx," +
@@ -596,6 +597,7 @@ define("moxie/core/utils/Mime", [
 		"text/css,css," +
 		"text/csv,csv," +
 		"text/rtf,rtf," +
+    "text/vtt,vtt," +
 		"video/mpeg,mpeg mpg mpe m2v," +
 		"video/quicktime,qt mov," +
 		"video/mp4,mp4," +
